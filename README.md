@@ -21,7 +21,7 @@ For the weekly project, I
 - relied on tf-idf for getting the dfm
 - trained a model with RandomForestClassifier
 
-Find the files for the CLI in  [this folder](project_folder).
+Feel free to navigate the directories or simply access the CLI from [this folder](project_folder).
 
 Below is a screen capture of the CLI.
 
@@ -30,3 +30,7 @@ Below is a screen capture of the CLI.
 ### TO-DO
 
 - Maybe collect more data and turn the project into a little fun web-application in the long run.
+
+## Acknowledgements
+
+The ```scrapy``` script is kindly provided by  [Paul Wlodkowski](https://github.com/pawlodkowski) and is probably adopted from the repo [here](https://github.com/pawlodkowski/lyrics_scraper).
