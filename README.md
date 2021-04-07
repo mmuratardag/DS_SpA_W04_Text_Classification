@@ -33,4 +33,6 @@ Below is a screen capture of the CLI.
 
 ## Acknowledgements
 
-The ```scrapy``` script is kindly provided by  [Paul Wlodkowski](https://github.com/pawlodkowski) and is probably adopted from the repo [here](https://github.com/pawlodkowski/lyrics_scraper).
+* The ```scrapy``` script is kindly provided by  [Paul Wlodkowski](https://github.com/pawlodkowski) and is probably adopted from the repo [here](https://github.com/pawlodkowski/lyrics_scraper).
+
+* The _main.py_  script is kindly provided by [Gesa Johannsen](https://github.com/GesaJo).
